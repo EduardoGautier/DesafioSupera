@@ -24,8 +24,8 @@ Aplicação web para gerenciar tarefas diárias, permitindo criar, editar, lista
 - `POST /listas`: Cria uma nova lista de tarefas.
 - `GET /listas`: Lista todas as tarefas, com opções de filtragem.
 - `POST /listas`: Cria uma nova tarefa.
-- `PUT /tarefas/{id}`: Atualiza uma tarefa existente.
-- `DELETE /tarefas/{id}`: Exclui uma tarefa.
+- `PUT /listas/`: Atualiza uma tarefa existente.
+- `DELETE /listas/{id}`: Exclui uma tarefa.
 
 ## Contribuindo
 
